@@ -1,2 +1,2 @@
 # SICMED
-Sistema de información Consultorio Medico
+Sistema de información Consultorio Médico
